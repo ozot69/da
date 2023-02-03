@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "steam-user": "^4.27.0",
+    "steamcommunity": "^3.44.3"
+  }
+}
